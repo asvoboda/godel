@@ -53,6 +53,8 @@ products:
           arch: amd64
         - os: linux
           arch: amd64
+        - os: windows
+          arch: amd64
       version-var: github.com/palantir/godel/cmd/godel.Version
     dist:
       dist-type:
